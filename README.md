@@ -1,7 +1,7 @@
 # 🎭 Multimodal Sentiment Analysis
 
 <p align="center">
-  <img src="5bf3dd4c-b536-4ecb-9f69-f9ea0ecf6575.png" width="850">
+  <img src="images/dataset.png"" width="850">
 </p>
 
 ## 📌 Overview
